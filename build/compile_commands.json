@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/husey/GitHubRepos/machine_learning_cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\machine_learning_cpp.dir\\main.cpp.obj -c C:\\Users\\husey\\GitHubRepos\\machine_learning_cpp\\main.cpp",
+  "file": "C:\\Users\\husey\\GitHubRepos\\machine_learning_cpp\\main.cpp",
+  "output": "CMakeFiles\\machine_learning_cpp.dir\\main.cpp.obj"
+}
+]

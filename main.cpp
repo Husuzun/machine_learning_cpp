@@ -5,7 +5,7 @@
 #include <Eigen/Dense>
 #include <boost/algorithm/string.hpp>
 #include <vector>
-//#include <opencv/opencv.hpp>
+#include <opencv2/opencv.hpp>
 
 int main(int argc, char *argv[]) {
     ETL etl(argv[1], argv[2], argv[3]);
